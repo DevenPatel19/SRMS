@@ -5,9 +5,9 @@ SRMS is a Java CLI Application for Student Record Management. The Student Record
 ## Instructions for Running the Program
 
 #### 1. Prerequisites:
-*Java Development Kit (JDK) installed on your system.
+* Java Development Kit (JDK) installed on your system.
 #### 2. Running the Program:
-*Compile the Java source file StudentRecordManagementSystem.java.
+* Compile the Java source file StudentRecordManagementSystem.java.
 
 ```bash
 javac StudentRecordManagementSystem.java
