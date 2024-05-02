@@ -52,4 +52,4 @@ java StudentRecordManagementSystem
 ## Error Handling
 * Proper error handling is implemented to manage cases where the student ID is not found or invalid inputs are provided.
 
-[GitHubLink]:https://github.com/DevenPatel19/SRMS
+[GitHub Link SRMS](https://github.com/DevenPatel19/SRMS)
